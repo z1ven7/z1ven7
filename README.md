@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @z1ven7
+<h1 align="center">Hi 👋, I'm Ziven</h1>
+<h3 align="center">A Diploma Student in Singapore Polytechnic</h3>
+
 - 👀 I’m interested in data analysis and working with neural networks!
 - 🌱 I’m currently studying a diploma in applied ai and data analytics!
 - 📫 To reach me, you can find me through the linkedin url I have in my profile.
